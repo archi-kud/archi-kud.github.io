@@ -592,8 +592,8 @@ body {
 	}
 
 	.main-temperature__temp span::after {
-		top: 13px;
-		right: -30px;
+		top: 7px;
+		right: -28px;
 		width: 15px;
 		height: 15px;
 		border: 5px solid #3E4B9D; 
