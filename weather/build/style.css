@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Gotham Pro Medium';
-	src: url('/fonts/GothamPro-Medium.eot');
+	src: url('/weather/build/fonts/GothamPro-Medium.eot');
 	src: local('Gotham Pro Medium'), local('GothamPro-Medium'),
-		url('/fonts/GothamPro-Medium.eot?#iefix') format('embedded-opentype'),
-		url('/fonts/GothamPro-Medium.woff') format('woff'),
-		url('/fonts/GothamPro-Medium.ttf') format('truetype');
+		url('/weather/build/fonts/GothamPro-Medium.eot?#iefix') format('embedded-opentype'),
+		url('/weather/build/fonts/GothamPro-Medium.woff') format('woff'),
+		url('/weather/build/fonts/GothamPro-Medium.ttf') format('truetype');
 	font-weight: 500;
 	font-style: normal;
 }
@@ -12,11 +12,11 @@
 
 @font-face {
 	font-family: 'Gotham Pro';
-	src: url('/fonts/GothamPro.eot');
+	src: url('/weather/build/fonts/GothamPro.eot');
 	src: local('Gotham Pro'), local('GothamPro'),
-		url('/fonts/GothamPro.eot?#iefix') format('embedded-opentype'),
-		url('/fonts/GothamPro.woff') format('woff'),
-		url('/fonts/GothamPro.ttf') format('truetype');
+		url('/weather/build/fonts/GothamPro.eot?#iefix') format('embedded-opentype'),
+		url('/weather/build/fonts/GothamPro.woff') format('woff'),
+		url('/weather/build/fonts/GothamPro.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
