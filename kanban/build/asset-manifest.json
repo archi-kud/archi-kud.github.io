@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "./kanban/build/static/css/main.f43a6eae.chunk.css",
+    "main.js": "./kanban/build/static/js/main.064a0667.chunk.js",
+    "main.js.map": "./kanban/build/static/js/main.064a0667.chunk.js.map",
+    "runtime~main.js": "./kanban/build/static/js/runtime~main.b508a4fa.js",
+    "runtime~main.js.map": "./kanban/build/static/js/runtime~main.b508a4fa.js.map",
+    "static/js/2.d6a534e5.chunk.js": "./kanban/build/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "./kanban/build/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "./kanban/build/index.html",
+    "precache-manifest.f774fe59a23810119c5aed489a935e0e.js": "./kanban/build/precache-manifest.f774fe59a23810119c5aed489a935e0e.js",
+    "service-worker.js": "./kanban/build/service-worker.js",
+    "static/css/main.f43a6eae.chunk.css.map": "./kanban/build/static/css/main.f43a6eae.chunk.css.map",
+    "static/media/main.css": "./kanban/build/static/media/Montserrat-Regular.de4a911e.woff",
+    "static/media/cross.svg": "./kanban/build/static/media/cross.5fe0db66.svg",
+    "static/media/plus.svg": "./kanban/build/static/media/plus.6cb6e5fc.svg"
+  }
+}
