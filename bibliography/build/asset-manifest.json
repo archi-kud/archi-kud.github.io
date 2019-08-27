@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bibliography/build/static/css/main.cf334a97.chunk.css",
+    "main.js": "/bibliography/build/static/js/main.aca588e2.chunk.js",
+    "main.js.map": "/bibliography/build/static/js/main.aca588e2.chunk.js.map",
+    "runtime~main.js": "/bibliography/build/static/js/runtime~main.367ec512.js",
+    "runtime~main.js.map": "/bibliography/build/static/js/runtime~main.367ec512.js.map",
+    "static/js/2.cb882426.chunk.js": "/bibliography/build/static/js/2.cb882426.chunk.js",
+    "static/js/2.cb882426.chunk.js.map": "/bibliography/build/static/js/2.cb882426.chunk.js.map",
+    "index.html": "/bibliography/build/index.html",
+    "precache-manifest.682ab7d2086c7f9a9eb5159d8d9ce845.js": "/bibliography/build/precache-manifest.682ab7d2086c7f9a9eb5159d8d9ce845.js",
+    "service-worker.js": "/bibliography/build/service-worker.js",
+    "static/css/main.cf334a97.chunk.css.map": "/bibliography/build/static/css/main.cf334a97.chunk.css.map",
+    "static/media/index.scss": "/bibliography/build/static/media/PT-Root-UI-Regular.f7552d29.eot",
+    "static/media/books-on-the-ground.png": "/bibliography/build/static/media/books-on-the-ground.97260bdd.png",
+    "static/media/copy.cf1abd24.svg": "/bibliography/build/static/media/copy.cf1abd24.svg",
+    "static/media/cross-tiny.8b18a0bf.svg": "/bibliography/build/static/media/cross-tiny.8b18a0bf.svg",
+    "static/media/cross.12018789.svg": "/bibliography/build/static/media/cross.12018789.svg",
+    "static/media/gold-carrot-logo.ae4efca1.svg": "/bibliography/build/static/media/gold-carrot-logo.ae4efca1.svg",
+    "static/media/link.3879a4b2.svg": "/bibliography/build/static/media/link.3879a4b2.svg",
+    "static/media/logo.8fe8c2f0.svg": "/bibliography/build/static/media/logo.8fe8c2f0.svg",
+    "static/media/plus.f1e02cd6.svg": "/bibliography/build/static/media/plus.f1e02cd6.svg",
+    "static/media/search.47fc50ec.svg": "/bibliography/build/static/media/search.47fc50ec.svg"
+  }
+}
