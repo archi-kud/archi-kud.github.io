@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/namuska/build/static/css/main.80c33986.chunk.css",
+    "main.js": "/namuska/build/static/js/main.d7d25d69.chunk.js",
+    "main.js.map": "/namuska/build/static/js/main.d7d25d69.chunk.js.map",
+    "runtime-main.js": "/namuska/build/static/js/runtime-main.ad12626c.js",
+    "runtime-main.js.map": "/namuska/build/static/js/runtime-main.ad12626c.js.map",
+    "static/js/2.8560b636.chunk.js": "/namuska/build/static/js/2.8560b636.chunk.js",
+    "static/js/2.8560b636.chunk.js.map": "/namuska/build/static/js/2.8560b636.chunk.js.map",
+    "index.html": "/namuska/build/index.html",
+    "precache-manifest.45abe7549b353de51af606bc5f5f6c81.js": "/namuska/build/precache-manifest.45abe7549b353de51af606bc5f5f6c81.js",
+    "service-worker.js": "/namuska/build/service-worker.js",
+    "static/css/main.80c33986.chunk.css.map": "/namuska/build/static/css/main.80c33986.chunk.css.map",
+    "static/js/2.8560b636.chunk.js.LICENSE.txt": "/namuska/build/static/js/2.8560b636.chunk.js.LICENSE.txt",
+    "static/media/_common.scss": "/namuska/build/static/media/background.90a57c97.jpg",
+    "static/media/cat.png": "/namuska/build/static/media/cat.3459754a.png",
+    "static/media/product-background.44bccc9a.svg": "/namuska/build/static/media/product-background.44bccc9a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad12626c.js",
+    "static/js/2.8560b636.chunk.js",
+    "static/css/main.80c33986.chunk.css",
+    "static/js/main.d7d25d69.chunk.js"
+  ]
+}
